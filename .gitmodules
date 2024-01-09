@@ -1,0 +1,7 @@
+[submodule "bzip2"]
+	path = bzip2
+	url = https://github.com/nemequ/bzip2.git
+[submodule "xz"]
+	path = xz
+	url = https://github.com/xz-mirror/xz.git
+	branch = v5.2
